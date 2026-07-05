@@ -1,0 +1,10 @@
+{
+  "name": "agenciy-creative-agency-framer-template-copy",
+  "version": "1.0.0",
+  "type": "module",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18",
+    "framer-motion": ">=10"
+  }
+}
